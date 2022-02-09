@@ -1,0 +1,1 @@
+Both parent and child can access the file.If they write concurrently, then the child writes after the parent.
